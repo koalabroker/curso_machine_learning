@@ -14,7 +14,7 @@ Hemos seguido aprendiendo bucles con for...in<br><br>
 Hemos visto las librerías Pandas, como importarlas y ver sus comandos<br><br>
 Hemos hecho un ejercicio muy completo de Space X nivel pro<br><br><br>
 
-<strong>Día 3 - Miércoles</strong><br><br>
+<strong>Día 3 Miércoles</strong><br><br>
 M5 - 06 - Introducción a Machine Learning con Scikit-Learn<br>
 M5 - 07 - Regresión<br>
 M5 - 09 - Folium<br><br><br>
