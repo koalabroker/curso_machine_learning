@@ -1,4 +1,4 @@
-<strong>Curso Machine Learning 27 Junio 2023</strong><br><br>
+<strong>CURSO MACHINE LEARNING 2023</strong><br><br>
 <strong>DÍA 1 Lunes</strong><br><br>
 M5 - 01 - Python Notebook<br>
 M5 - 02 - Condicionales<br><br>
