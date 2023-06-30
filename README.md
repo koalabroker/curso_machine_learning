@@ -17,8 +17,8 @@ Hemos hecho un ejercicio muy completo de Space X nivel pro<br><br><br>
 <strong>Día 3 Miércoles</strong><br><br>
 M5 - 06 - Introducción a Machine Learning con Scikit-Learn<br>
 M5 - 07 - Regresión<br>
-M5 - 09 - Folium<br><br><br>
-Hemos trabajado con las librerías Pandas, Numpy, Folium y alguna más...
+M5 - 09 - Folium<br>
+Hemos trabajado con las librerías Pandas, Numpy, Folium y alguna más...<br><br><br>
 
 <strong>Día 4 Jueves</strong><br><br>
 M5 - SpaceX - 4 - EDA with Data Visualization.ipynb<br>
