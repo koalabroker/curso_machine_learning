@@ -19,3 +19,9 @@ M5 - 06 - Introducción a Machine Learning con Scikit-Learn<br>
 M5 - 07 - Regresión<br>
 M5 - 09 - Folium<br><br><br>
 Hemos trabajado con las librerías Pandas, Numpy, Folium y alguna más...
+
+<strong>Día 4 Jueves</strong><br><br>
+M5 - SpaceX - 4 - EDA with Data Visualization.ipynb<br>
+M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium.ipynb<br>
+M5 - SPACEX2 - 6 - Machine Learning Predicciones.ipynb<br><br><br>
+Práctica con las librerías Pandas, Numpy, Foliym, Matplotlib, Seaborn, Sklearn...
